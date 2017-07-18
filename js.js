@@ -3,3 +3,5 @@ function fun(){
 }
 
 alert('后修改的新增内容');
+
+console.log('第二次');
